@@ -21,11 +21,7 @@ def _pickle_method(m):
 
 
 copy_reg.pickle(types.MethodType, _pickle_method)
-# "bmm9EcjvS4TnnRzoZoYXXcAF",
-akList = ["fkw1bmMoGBGWOAGmpqIWxahy", "lWpbR5OCQYybppqci2kGYgFd", "DW2CwL3B3271CiVyw7GdBsfR",
-          "ou5X9BBEMZtwvuSO4Ypfx2HB", "LPtK0OiWUItxFK6qd3m1FsRD","K1bHzgxG2osaIiKyAAel57jQ",
-          "dRtL7RRo4YTdtujclWx85DtG", "G4UkrVktXE71zQsGY8Vza3Ih", "cmrsVXBcAlvhbFeaRwCsGUnH", "WBw4kIepZzGp4kH5Gn3r0ACy",
-          ]
+akList = ["你的ak"]
 class GeocodingService(object):
     def __init__(self):
         print "Constructor ... %s" % multiprocessing.current_process().name

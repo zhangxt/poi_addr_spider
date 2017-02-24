@@ -36,12 +36,7 @@ def frange2(x, y, step):
 
 
 # 每个Token正向编码100万，企业号300万
-goodAkList = ["lWpbR5OCQYybppqci2kGYgFd", "WBw4kIepZzGp4kH5Gn3r0ACy", "ou5X9BBEMZtwvuSO4Ypfx2HB",
-              "Qdgt7mclCrkFdPBizd3uUWsE","lWhyznAxPPYdanHLKZpjR272","e5UujacxFn50xo2RadnTEtly",
-              "WEC1LKpjIWfCehFqGVPm6Dn6", "DW2CwL3B3271CiVyw7GdBsfR", "LPtK0OiWUItxFK6qd3m1FsRD",
-              "oD8Okbi8FdRm5keKBvfHuR7H","K1bHzgxG2osaIiKyAAel57jQ",
-              "MviPFAcx5I6f1FkRQlq6iTxc", "MviPFAcx5I6f1FkRQlq6iTxc","MviPFAcx5I6f1FkRQlq6iTxc"
-             ]
+goodAkList = ["你的ak"]
 
 path = "E:/data/point_cache/"
 path_bak = "E:/data/point_cache_bak/" + strftime("%Y-%m-%d %H-%M-%S", localtime(time()))
